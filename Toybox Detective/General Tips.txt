@@ -1,0 +1,53 @@
+General Tips:
+
+    Player's main goal in game is finding one true criminal, making right or wrong identikits in 
+    a process. To do that, it is necessary to find 4 true identikit parts.
+
+        Note: Identikit consists of 4 parts: upper head, lower head, hair and mustaches. All parts 
+        are marked with unique 3-symbol hints. First symbol of the true criminal hint corresponds 
+        to the 1-symbol of the case clue. 
+
+    Dialogs labeled with 'YOU' (your player characters thoughts) can help you to understand what to do.
+    After talking to BOSS at the beginning, your thought will contain one symbol - first clue of the case.
+
+    First of all, you need to go to Archive and make a suspect's identikit with parts, stored in it. 
+    Find part with 3-symbol hint, containing first clue of the case and select it by pressing Down Arrow 
+    button.
+ 
+        Note: You may or not fill all four parts to test an identikit, it's up to player.
+
+    Then, press Try button (X). You will notice, that 'magnifying glass' image appears above player's 
+    sprite. It means you have a try on the identikit.
+
+    After that, you need to go to the Office and get to Your Computer. This screen shows: on the top 
+    your investigated 1-symbol clues, on the right your investigated 3-symbol hints. Image at the 
+    center of the screen shows identikit's parts, selected in the Archive by player.
+
+        Note: Investigated 3-symbol hint are locked (marked with 'orange star'). They will be 
+        automatically added to your further tries.
+
+        Note: You can track investigated clues and hints on this screen.
+
+    Press Make button (X). Image above player's sprite now changes to the 'script' image. It means 
+    that you made an identikit with your choice of the parts.
+
+    Now you have an identikit. Go to the Duty Officer Rob and send out an identikit. After end of 
+    the conversation dialog box tells you, that you may go to Jail to interrogate detained suspects.
+
+    You have four [?] on the Interrogation screen. These are detained suspect's identikit parts. You 
+    can check if it is a corresponding to clue hint or not (YES means corresponding, NO! means not) by 
+    pressing Right Arrow on each part. If you haven't got this hint investigated, new clue will be added 
+    to investigated clues. If you already have clue, the hint will be added to investigated hints and 
+    locked on the future identikits made by player.
+
+    If all suspects tell you nothing, you may check station entrance near Duty Officer Rob's place. 
+    Witness may come to help you. He or she can give you a new clue on the case.
+
+        Note: Try to remember symbols (at least, only first symbol), it will help you to select right 
+        identikit part in Archive.
+
+    When 4 true criminal parts are found, you will need to make his identikit to catch him. Then 
+    interrogate him.
+
+    This is the main game loop. You discover new clues by making identikits. You find new hints in the 
+    Archive with new clues and make identikits again.
