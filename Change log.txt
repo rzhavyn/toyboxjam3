@@ -1,0 +1,11 @@
+Change log:
+    ver 0.2
+    - improved dialogues word wrapping, added colored text highlights;
+    - added '?' signs
+    - spellcheck (thanks to Mikhail Panin);
+    - archive, your comp and interrogation screens rework;
+    - added General Tips.txt file;
+
+
+
+Download, unrar, execute Toybox Detective.exe, play.

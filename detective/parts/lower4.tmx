@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="7" height="5" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../assets/democart.tsx"/>
+ <tileset firstgid="257" source="../assets/tbj2_startcart2spr.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="7" height="5">
+  <data encoding="csv">
+141,0,0,0,0,0,143,
+176,157,0,86,0,2147483805,176,
+173,173,0,0,0,175,175,
+0,1610612856,122,38,120,2684354682,0,
+0,332,173,2684354717,175,332,0
+</data>
+ </layer>
+</map>
